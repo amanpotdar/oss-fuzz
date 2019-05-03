@@ -1,5 +1,8 @@
 # OSS-Fuzz - Continuous Fuzzing for Open Source Software
 
+
+
+
 > *Status*: Stable. We are accepting applications from widely-used open source projects.
 
 [FAQ](docs/faq.md)
